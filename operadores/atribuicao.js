@@ -12,6 +12,7 @@ y %= 3; // y = y % 3;
 console.log(x);
 console.log(y);
 
+
 let w = 'texto';
 w += ', mais texto';
 w += '!!!';
